@@ -45,7 +45,6 @@ Copy code
 ./internsctl.sh file getinfo --size hello.txt
 
 ## Here are the attached screenshots of the file:
-![Screenshot (155)](https://github.com/Aayussh004/xenonstack_linux_assessment/assets/76591635/85543f45-1a01-4f15-b229-a1e0acddd749)
 ![Screenshot (154)](https://github.com/Aayussh004/xenonstack_linux_assessment/assets/76591635/a6001c0b-94df-4a89-b2ef-19fde972b39b)
 ![Screenshot (153)](https://github.com/Aayussh004/xenonstack_linux_assessment/assets/76591635/dbd189d3-2ad6-4f68-b7f5-4fcb94b6192c)
 ![Screenshot (151)](https://github.com/Aayussh004/xenonstack_linux_assessment/assets/76591635/7df13321-3f88-4bbf-85b7-e9b7e07562d4)
